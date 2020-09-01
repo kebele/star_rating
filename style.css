@@ -1,0 +1,13 @@
+.checked {
+    color : orangered
+}
+
+button{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+span{
+    font-size : 40px;
+    cursor: pointer;
+}
